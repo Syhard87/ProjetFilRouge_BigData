@@ -1,0 +1,801 @@
+﻿Response_ID,Country,Site,Department,Grade,Engagement,Manager_Score,Workload_Score,Recommend_Company,Free_Comment,Language
+SRV-00001,Espagne,Madrid,Finance,G10,2,4,1,3,Outils lents,FR
+SRV-00002,Chili,Santiago,Supply Chain,G8,8,9,3,9,,FR
+SRV-00003,France,Paris,Finance,G9,5,7,10,1,,ES
+SRV-00004,Espagne,Madrid,Marketing,G9,4,10,2,3,Manque de mobilité,DE
+SRV-00005,Allemagne,Dortmund,Production,G5,5,3,4,9,Bon manager,ZH
+SRV-00006,Espagne,Madrid,Marketing,G7,5,8,7,10,Charge élevée,ES
+SRV-00007,Chine,Shanghai,Quality,G10,1,10,4,8,Charge élevée,EN
+SRV-00008,France,Paris,Quality,G7,7,5,2,8,Outils lents,DE
+SRV-00009,Allemagne,Dortmund,Quality,G8,4,7,4,3,Charge élevée,FR
+SRV-00010,Chili,Santiago,Sales,G6,5,3,1,6,Bon manager,FR
+SRV-00011,Pologne,Wroclaw,Supply Chain,G10,4,8,9,8,Bon manager,ZH
+SRV-00012,Espagne,Madrid,Supply Chain,G8,8,5,1,1,Bon manager,ES
+SRV-00013,Allemagne,Dortmund,HR,G6,5,5,4,1,,DE
+SRV-00014,Chine,Shanghai,IT,G6,1,9,9,1,Outils lents,DE
+SRV-00015,Espagne,Madrid,IT,G6,2,7,1,2,Outils lents,FR
+SRV-00016,Espagne,Madrid,Supply Chain,G7,4,7,10,9,Outils lents,ES
+SRV-00017,Allemagne,Dortmund,Quality,G8,6,9,7,2,Manque de mobilité,ES
+SRV-00018,Allemagne,Dortmund,Supply Chain,G8,2,8,5,7,Charge élevée,DE
+SRV-00019,Chili,Santiago,Sales,G5,8,5,5,4,Bon manager,FR
+SRV-00020,Chine,Shanghai,Marketing,G10,7,2,2,9,Très satisfait,FR
+SRV-00021,Allemagne,Dortmund,IT,G5,4,5,7,0,Charge élevée,ES
+SRV-00022,France,Limoges,Supply Chain,G8,9,9,10,2,,EN
+SRV-00023,Chili,Santiago,Finance,G7,6,6,4,6,Manque de mobilité,ZH
+SRV-00024,Chine,Shanghai,Supply Chain,G10,9,9,7,8,Outils lents,ZH
+SRV-00025,Chili,Santiago,Marketing,G7,7,1,5,3,Outils lents,ES
+SRV-00026,Chili,Santiago,Sales,G10,10,7,9,10,Très satisfait,EN
+SRV-00027,Pologne,Wroclaw,Marketing,G8,5,5,9,6,Charge élevée,EN
+SRV-00028,Pologne,Wroclaw,HR,G5,1,8,8,9,Charge élevée,FR
+SRV-00029,Allemagne,Dortmund,IT,G9,7,9,2,2,Manque de mobilité,FR
+SRV-00030,Pologne,Wroclaw,IT,G6,4,4,7,4,Manque de mobilité,EN
+SRV-00031,Chine,Shanghai,Marketing,G7,9,3,4,6,Manque de mobilité,ZH
+SRV-00032,Espagne,Madrid,Sales,G7,10,6,4,8,,DE
+SRV-00033,France,Paris,Supply Chain,G6,10,10,5,10,Manque de mobilité,EN
+SRV-00034,Chine,Shanghai,Sales,G10,9,8,6,2,Manque de mobilité,FR
+SRV-00035,Pologne,Wroclaw,Sales,G7,8,10,2,0,Bon manager,EN
+SRV-00036,France,Paris,Marketing,G5,4,9,4,1,Manque de mobilité,EN
+SRV-00037,Allemagne,Dortmund,Finance,G8,6,3,9,10,Manque de mobilité,FR
+SRV-00038,Allemagne,Dortmund,Supply Chain,G7,3,2,2,4,,ES
+SRV-00039,Pologne,Wroclaw,IT,G6,8,4,9,8,Outils lents,FR
+SRV-00040,Espagne,Madrid,Marketing,G8,1,8,10,1,Charge élevée,EN
+SRV-00041,Chine,Shanghai,Supply Chain,G8,10,6,8,8,Charge élevée,FR
+SRV-00042,Espagne,Madrid,Sales,G7,6,5,5,6,Très satisfait,DE
+SRV-00043,France,Limoges,Production,G5,2,7,2,6,,EN
+SRV-00044,Pologne,Wroclaw,Supply Chain,G8,8,4,4,5,Bon manager,ZH
+SRV-00045,Chine,Shanghai,Finance,G10,3,5,5,2,Bon manager,ZH
+SRV-00046,Pologne,Wroclaw,Sales,G9,8,3,1,2,Très satisfait,EN
+SRV-00047,Allemagne,Dortmund,Production,G6,10,6,7,6,Outils lents,EN
+SRV-00048,Chili,Santiago,Production,G8,5,5,5,2,,EN
+SRV-00049,Espagne,Madrid,Quality,G5,9,9,10,5,,ES
+SRV-00050,Chili,Santiago,HR,G8,7,10,7,5,Outils lents,ZH
+SRV-00051,France,Paris,HR,G9,10,7,8,9,Très satisfait,DE
+SRV-00052,Espagne,Madrid,Quality,G10,7,4,7,1,,ES
+SRV-00053,France,Paris,HR,G6,7,8,5,1,Bon manager,ZH
+SRV-00054,France,Paris,IT,G10,6,10,9,7,Outils lents,EN
+SRV-00055,Chine,Shanghai,HR,G5,5,1,2,7,,DE
+SRV-00056,Chili,Santiago,Supply Chain,G9,5,10,5,0,Charge élevée,ES
+SRV-00057,Espagne,Madrid,Production,G5,7,10,1,7,Outils lents,ES
+SRV-00058,Chili,Santiago,Marketing,G7,4,5,5,3,,ZH
+SRV-00059,Allemagne,Dortmund,Quality,G5,4,10,4,10,Bon manager,DE
+SRV-00060,Chine,Shanghai,Finance,G7,2,3,7,3,,FR
+SRV-00061,Chine,Shanghai,Sales,G9,4,1,5,5,,FR
+SRV-00062,France,Limoges,Supply Chain,G9,8,6,10,6,,ZH
+SRV-00063,Allemagne,Dortmund,Marketing,G7,8,2,3,5,Très satisfait,DE
+SRV-00064,Pologne,Wroclaw,IT,G7,5,4,10,3,,DE
+SRV-00065,Chine,Shanghai,HR,G5,5,7,1,2,,ZH
+SRV-00066,Chili,Santiago,HR,G8,9,1,2,7,Manque de mobilité,DE
+SRV-00067,France,Limoges,HR,G8,9,5,9,2,Outils lents,FR
+SRV-00068,France,Limoges,Sales,G7,3,9,7,3,,ES
+SRV-00069,Chine,Shanghai,Quality,G6,4,7,1,10,,ZH
+SRV-00070,Pologne,Wroclaw,Sales,G9,6,2,7,7,Manque de mobilité,DE
+SRV-00071,Pologne,Wroclaw,IT,G5,10,3,9,5,Très satisfait,ES
+SRV-00072,Chili,Santiago,Supply Chain,G10,4,1,4,7,Manque de mobilité,EN
+SRV-00073,Allemagne,Dortmund,Production,G5,6,10,5,10,Bon manager,ES
+SRV-00074,Pologne,Wroclaw,IT,G8,4,5,3,4,,FR
+SRV-00075,Pologne,Wroclaw,Quality,G7,8,2,10,3,Bon manager,ES
+SRV-00076,Chine,Shanghai,Sales,G7,10,10,5,7,Bon manager,FR
+SRV-00077,Pologne,Wroclaw,Marketing,G5,7,9,8,4,Manque de mobilité,EN
+SRV-00078,Allemagne,Dortmund,IT,G6,7,2,3,1,Bon manager,ZH
+SRV-00079,Espagne,Madrid,HR,G9,1,4,9,8,Outils lents,FR
+SRV-00080,Allemagne,Dortmund,Sales,G7,9,2,8,1,,EN
+SRV-00081,Chili,Santiago,Quality,G7,2,1,6,1,Outils lents,ES
+SRV-00082,Chili,Santiago,Sales,G8,3,9,4,6,Charge élevée,DE
+SRV-00083,Espagne,Madrid,Sales,G6,5,2,5,7,,ZH
+SRV-00084,Chine,Shanghai,Supply Chain,G8,7,4,7,5,Manque de mobilité,ZH
+SRV-00085,Espagne,Madrid,Production,G8,7,4,1,3,Charge élevée,FR
+SRV-00086,Allemagne,Dortmund,Marketing,G10,5,10,6,3,Bon manager,FR
+SRV-00087,Espagne,Madrid,IT,G9,1,5,3,9,Charge élevée,DE
+SRV-00088,Espagne,Madrid,Quality,G10,1,2,5,10,Manque de mobilité,FR
+SRV-00089,Espagne,Madrid,Marketing,G10,8,2,5,2,Très satisfait,EN
+SRV-00090,Chine,Shanghai,IT,G5,9,2,5,6,Charge élevée,FR
+SRV-00091,Pologne,Wroclaw,IT,G8,3,7,7,9,,EN
+SRV-00092,Espagne,Madrid,Supply Chain,G9,1,10,4,3,Outils lents,EN
+SRV-00093,Allemagne,Dortmund,Quality,G9,8,1,4,7,Outils lents,ES
+SRV-00094,Espagne,Madrid,Production,G5,1,9,7,10,,ZH
+SRV-00095,Chili,Santiago,HR,G10,1,5,1,9,Manque de mobilité,EN
+SRV-00096,Chili,Santiago,Finance,G10,1,4,6,1,Charge élevée,FR
+SRV-00097,Allemagne,Dortmund,Sales,G8,7,6,9,9,,DE
+SRV-00098,France,Paris,Sales,G5,8,9,1,8,Outils lents,ES
+SRV-00099,Allemagne,Dortmund,Sales,G7,1,4,7,4,,ES
+SRV-00100,Espagne,Madrid,IT,G8,9,10,3,5,Très satisfait,ZH
+SRV-00101,Pologne,Wroclaw,HR,G8,2,8,7,10,,ZH
+SRV-00102,Chine,Shanghai,Marketing,G9,8,3,5,9,,ZH
+SRV-00103,Allemagne,Dortmund,Marketing,G7,4,9,8,3,Bon manager,ES
+SRV-00104,France,Paris,Supply Chain,G10,8,5,5,1,Charge élevée,EN
+SRV-00105,Pologne,Wroclaw,Sales,G7,4,1,8,10,Outils lents,FR
+SRV-00106,Allemagne,Dortmund,Production,G7,2,10,1,2,Très satisfait,ES
+SRV-00107,Chine,Shanghai,Sales,G7,5,2,10,7,,EN
+SRV-00108,France,Limoges,Marketing,G10,4,10,4,6,,DE
+SRV-00109,Espagne,Madrid,Production,G10,4,2,6,6,Outils lents,FR
+SRV-00110,France,Limoges,Finance,G6,6,9,9,10,Manque de mobilité,FR
+SRV-00111,Chine,Shanghai,HR,G10,2,9,3,8,,EN
+SRV-00112,Pologne,Wroclaw,IT,G6,9,1,2,5,Très satisfait,EN
+SRV-00113,Chili,Santiago,Finance,G6,8,4,3,5,,EN
+SRV-00114,Espagne,Madrid,IT,G5,6,10,1,9,Très satisfait,EN
+SRV-00115,Pologne,Wroclaw,HR,G9,7,5,5,10,,DE
+SRV-00116,France,Paris,HR,G8,10,4,5,7,Charge élevée,ES
+SRV-00117,Espagne,Madrid,Supply Chain,G7,6,10,8,8,Manque de mobilité,DE
+SRV-00118,Allemagne,Dortmund,Sales,G6,5,8,10,6,Outils lents,EN
+SRV-00119,Chili,Santiago,Sales,G7,7,9,4,2,Charge élevée,ZH
+SRV-00120,Chine,Shanghai,Quality,G8,6,8,8,2,,ZH
+SRV-00121,Espagne,Madrid,Production,G7,3,7,9,0,Très satisfait,DE
+SRV-00122,Pologne,Wroclaw,Sales,G6,2,8,2,3,,ES
+SRV-00123,Chili,Santiago,IT,G9,6,7,6,0,,FR
+SRV-00124,Pologne,Wroclaw,Production,G7,1,9,7,2,Très satisfait,ES
+SRV-00125,Espagne,Madrid,Quality,G9,4,7,4,5,Charge élevée,EN
+SRV-00126,Chili,Santiago,Marketing,G6,1,7,1,4,,ZH
+SRV-00127,Espagne,Madrid,Sales,G10,1,10,8,6,Bon manager,EN
+SRV-00128,Chine,Shanghai,Sales,G10,1,9,1,8,Bon manager,ES
+SRV-00129,France,Paris,Sales,G7,8,6,1,3,Outils lents,EN
+SRV-00130,Espagne,Madrid,Production,G5,8,1,8,5,,FR
+SRV-00131,Chili,Santiago,Quality,G6,9,4,3,4,Outils lents,EN
+SRV-00132,Espagne,Madrid,Quality,G5,6,6,8,2,,FR
+SRV-00133,Chine,Shanghai,Production,G9,8,9,5,8,Manque de mobilité,EN
+SRV-00134,Espagne,Madrid,Finance,G7,3,3,2,8,Bon manager,DE
+SRV-00135,France,Paris,Finance,G7,2,2,10,4,,FR
+SRV-00136,Chili,Santiago,Finance,G5,3,8,2,6,Très satisfait,DE
+SRV-00137,Espagne,Madrid,Quality,G9,5,1,7,5,,ES
+SRV-00138,Pologne,Wroclaw,Supply Chain,G5,5,6,9,5,Bon manager,ZH
+SRV-00139,France,Limoges,Quality,G9,8,5,5,5,Très satisfait,FR
+SRV-00140,Chine,Shanghai,Quality,G9,1,1,7,0,Charge élevée,EN
+SRV-00141,Espagne,Madrid,Quality,G10,2,4,5,10,Bon manager,ES
+SRV-00142,France,Paris,Sales,G5,4,3,7,9,Outils lents,DE
+SRV-00143,Espagne,Madrid,Finance,G9,5,6,1,2,Bon manager,DE
+SRV-00144,Allemagne,Dortmund,HR,G9,1,4,6,8,,FR
+SRV-00145,Chili,Santiago,Production,G6,6,3,6,9,Manque de mobilité,DE
+SRV-00146,Pologne,Wroclaw,Production,G8,4,7,7,1,,FR
+SRV-00147,Pologne,Wroclaw,Production,G8,2,1,4,1,,ES
+SRV-00148,Pologne,Wroclaw,HR,G5,1,3,5,4,Bon manager,FR
+SRV-00149,Espagne,Madrid,Marketing,G6,4,6,5,10,Outils lents,ES
+SRV-00150,Espagne,Madrid,Marketing,G9,1,1,5,8,,ES
+SRV-00151,France,Limoges,Finance,G9,10,6,6,2,Très satisfait,EN
+SRV-00152,Chili,Santiago,Marketing,G6,4,5,9,9,Charge élevée,ZH
+SRV-00153,Chili,Santiago,Finance,G6,8,4,10,0,,EN
+SRV-00154,France,Paris,Production,G8,8,8,9,7,,ZH
+SRV-00155,Espagne,Madrid,HR,G7,7,9,4,9,,ZH
+SRV-00156,Pologne,Wroclaw,Sales,G8,2,1,4,1,,ES
+SRV-00157,France,Paris,Supply Chain,G8,5,4,4,9,Outils lents,ZH
+SRV-00158,Chine,Shanghai,Production,G9,10,8,6,7,Outils lents,ZH
+SRV-00159,Chili,Santiago,Sales,G10,5,9,4,9,Très satisfait,DE
+SRV-00160,Espagne,Madrid,HR,G7,8,2,4,0,Charge élevée,DE
+SRV-00161,Pologne,Wroclaw,IT,G5,5,3,2,6,Très satisfait,EN
+SRV-00162,Allemagne,Dortmund,Supply Chain,G10,4,3,5,5,Bon manager,DE
+SRV-00163,France,Paris,Sales,G9,8,6,4,2,Charge élevée,ES
+SRV-00164,Chili,Santiago,Supply Chain,G10,6,6,8,8,Outils lents,FR
+SRV-00165,Chili,Santiago,HR,G5,7,5,4,5,Charge élevée,DE
+SRV-00166,France,Limoges,Supply Chain,G10,10,4,6,6,Manque de mobilité,DE
+SRV-00167,Allemagne,Dortmund,Production,G5,6,8,8,3,Charge élevée,DE
+SRV-00168,Allemagne,Dortmund,Marketing,G6,10,2,9,6,Outils lents,ZH
+SRV-00169,Allemagne,Dortmund,Marketing,G6,8,8,2,0,Très satisfait,DE
+SRV-00170,France,Paris,Supply Chain,G9,6,9,7,0,Charge élevée,ES
+SRV-00171,Pologne,Wroclaw,Sales,G5,10,8,7,1,Outils lents,ES
+SRV-00172,Allemagne,Dortmund,Quality,G9,1,10,7,1,,EN
+SRV-00173,Allemagne,Dortmund,IT,G9,3,4,10,8,,DE
+SRV-00174,Espagne,Madrid,Marketing,G6,1,1,1,8,Très satisfait,FR
+SRV-00175,France,Paris,IT,G10,10,2,10,4,Très satisfait,EN
+SRV-00176,Chine,Shanghai,Finance,G8,4,9,10,1,Très satisfait,ES
+SRV-00177,France,Limoges,Quality,G6,3,2,6,10,,ES
+SRV-00178,Chine,Shanghai,IT,G8,3,8,8,8,Outils lents,EN
+SRV-00179,Chili,Santiago,Sales,G9,3,7,4,8,Bon manager,DE
+SRV-00180,Espagne,Madrid,Supply Chain,G8,4,9,1,0,Très satisfait,DE
+SRV-00181,Chili,Santiago,IT,G8,7,2,1,8,Bon manager,ES
+SRV-00182,France,Limoges,Marketing,G5,10,5,5,0,Outils lents,FR
+SRV-00183,France,Paris,Supply Chain,G9,7,5,8,5,Bon manager,DE
+SRV-00184,Espagne,Madrid,Supply Chain,G10,4,8,5,5,Outils lents,EN
+SRV-00185,France,Paris,Marketing,G9,2,3,7,5,,FR
+SRV-00186,Espagne,Madrid,HR,G10,6,2,6,7,Très satisfait,ES
+SRV-00187,Allemagne,Dortmund,Sales,G9,8,8,9,9,,EN
+SRV-00188,Chili,Santiago,Marketing,G8,5,8,7,1,,ES
+SRV-00189,Espagne,Madrid,Marketing,G7,7,5,7,8,Charge élevée,ES
+SRV-00190,Chine,Shanghai,Marketing,G7,3,7,5,2,,FR
+SRV-00191,Espagne,Madrid,Finance,G5,5,1,9,10,Charge élevée,DE
+SRV-00192,Allemagne,Dortmund,Supply Chain,G8,10,5,3,9,Outils lents,ES
+SRV-00193,Chili,Santiago,IT,G10,2,6,10,3,Manque de mobilité,ZH
+SRV-00194,Espagne,Madrid,Marketing,G5,7,9,2,8,Très satisfait,EN
+SRV-00195,France,Paris,HR,G8,5,6,5,5,Outils lents,FR
+SRV-00196,France,Paris,Production,G10,2,3,1,10,Manque de mobilité,DE
+SRV-00197,Allemagne,Dortmund,Finance,G5,8,2,5,0,Outils lents,FR
+SRV-00198,Chine,Shanghai,IT,G5,3,8,2,5,,ES
+SRV-00199,Espagne,Madrid,Marketing,G6,7,4,5,0,,ES
+SRV-00200,Espagne,Madrid,Finance,G8,1,1,9,0,Manque de mobilité,ZH
+SRV-00201,France,Paris,Marketing,G8,6,5,1,0,,DE
+SRV-00202,Chili,Santiago,Production,G10,5,6,8,10,,FR
+SRV-00203,France,Paris,HR,G6,5,7,7,9,Très satisfait,DE
+SRV-00204,France,Paris,HR,G6,5,7,1,8,Très satisfait,ES
+SRV-00205,France,Limoges,Supply Chain,G8,8,6,7,2,Très satisfait,ZH
+SRV-00206,Pologne,Wroclaw,Production,G9,1,3,10,7,,ZH
+SRV-00207,Chili,Santiago,Production,G5,10,10,10,6,Bon manager,DE
+SRV-00208,Pologne,Wroclaw,IT,G9,5,7,5,7,Charge élevée,DE
+SRV-00209,Chili,Santiago,Supply Chain,G8,1,5,4,2,Manque de mobilité,ES
+SRV-00210,Chili,Santiago,Sales,G5,9,6,1,4,Manque de mobilité,ZH
+SRV-00211,Espagne,Madrid,Quality,G9,3,3,2,9,,EN
+SRV-00212,Chine,Shanghai,Finance,G5,7,6,5,4,Outils lents,DE
+SRV-00213,France,Limoges,Finance,G8,8,4,3,7,,DE
+SRV-00214,Espagne,Madrid,Finance,G5,10,3,1,4,Très satisfait,EN
+SRV-00215,Allemagne,Dortmund,Production,G5,9,5,8,9,Outils lents,ZH
+SRV-00216,Chine,Shanghai,HR,G9,8,1,10,9,Très satisfait,EN
+SRV-00217,Pologne,Wroclaw,Finance,G7,8,3,4,4,Bon manager,FR
+SRV-00218,Allemagne,Dortmund,Supply Chain,G9,4,10,4,4,,FR
+SRV-00219,Pologne,Wroclaw,IT,G8,10,8,5,6,Très satisfait,EN
+SRV-00220,Espagne,Madrid,Quality,G8,5,1,1,5,Manque de mobilité,FR
+SRV-00221,France,Limoges,Production,G8,8,3,7,2,Outils lents,EN
+SRV-00222,Pologne,Wroclaw,Finance,G6,6,4,6,2,Bon manager,DE
+SRV-00223,France,Paris,HR,G6,5,2,9,3,Manque de mobilité,ES
+SRV-00224,France,Paris,Marketing,G8,9,10,8,5,Charge élevée,DE
+SRV-00225,Chine,Shanghai,Supply Chain,G8,6,5,6,0,Manque de mobilité,ES
+SRV-00226,Chine,Shanghai,Marketing,G5,3,4,5,7,Outils lents,EN
+SRV-00227,Chine,Shanghai,IT,G7,5,4,4,10,Charge élevée,FR
+SRV-00228,Chine,Shanghai,Quality,G6,2,6,4,0,Outils lents,FR
+SRV-00229,Espagne,Madrid,Quality,G5,2,3,9,8,Bon manager,ZH
+SRV-00230,Chine,Shanghai,Sales,G9,3,7,3,3,Très satisfait,DE
+SRV-00231,Chine,Shanghai,Quality,G7,6,5,4,2,Bon manager,DE
+SRV-00232,France,Paris,Supply Chain,G9,8,2,5,10,,DE
+SRV-00233,Chili,Santiago,Sales,G10,9,3,10,9,Charge élevée,ZH
+SRV-00234,France,Paris,Supply Chain,G7,5,7,6,5,,DE
+SRV-00235,France,Limoges,Sales,G10,9,4,2,2,Outils lents,DE
+SRV-00236,Allemagne,Dortmund,IT,G9,4,6,4,7,Bon manager,EN
+SRV-00237,Chine,Shanghai,IT,G5,7,1,5,4,Manque de mobilité,EN
+SRV-00238,Allemagne,Dortmund,Marketing,G8,7,6,4,7,Très satisfait,ES
+SRV-00239,Chili,Santiago,Quality,G8,6,7,6,9,,EN
+SRV-00240,Pologne,Wroclaw,IT,G10,8,9,10,4,Manque de mobilité,DE
+SRV-00241,Pologne,Wroclaw,IT,G10,9,6,9,2,,DE
+SRV-00242,Chili,Santiago,Marketing,G5,7,6,3,9,Bon manager,ES
+SRV-00243,Chili,Santiago,Finance,G9,8,4,5,1,Très satisfait,ZH
+SRV-00244,Espagne,Madrid,HR,G10,10,8,1,8,Charge élevée,ZH
+SRV-00245,Chili,Santiago,Quality,G7,8,2,5,0,Outils lents,FR
+SRV-00246,Chili,Santiago,HR,G7,6,6,6,8,,EN
+SRV-00247,Chili,Santiago,Quality,G6,2,6,9,1,Manque de mobilité,DE
+SRV-00248,Pologne,Wroclaw,Production,G9,2,9,6,9,,DE
+SRV-00249,Chine,Shanghai,Supply Chain,G10,7,7,1,10,Bon manager,EN
+SRV-00250,Pologne,Wroclaw,Marketing,G9,4,10,10,7,,FR
+SRV-00251,Pologne,Wroclaw,Production,G8,9,8,7,3,Très satisfait,DE
+SRV-00252,Pologne,Wroclaw,Production,G7,4,8,9,1,Charge élevée,ES
+SRV-00253,Pologne,Wroclaw,IT,G5,8,8,2,2,Outils lents,EN
+SRV-00254,Espagne,Madrid,Quality,G5,7,2,2,10,Outils lents,FR
+SRV-00255,Chili,Santiago,Finance,G9,1,3,9,5,Charge élevée,ZH
+SRV-00256,Chine,Shanghai,HR,G10,4,8,7,7,Charge élevée,FR
+SRV-00257,France,Paris,Finance,G9,2,8,4,5,,EN
+SRV-00258,Chili,Santiago,Finance,G9,2,4,10,5,Très satisfait,ES
+SRV-00259,Chine,Shanghai,Quality,G7,5,1,1,7,Très satisfait,FR
+SRV-00260,France,Limoges,Production,G10,9,5,9,4,,ES
+SRV-00261,Espagne,Madrid,Quality,G6,8,5,5,4,Bon manager,ZH
+SRV-00262,Chili,Santiago,Marketing,G9,6,6,8,6,Outils lents,ZH
+SRV-00263,Chine,Shanghai,Production,G10,8,8,10,1,Charge élevée,FR
+SRV-00264,Pologne,Wroclaw,Finance,G7,3,4,2,4,Très satisfait,FR
+SRV-00265,Chine,Shanghai,Sales,G10,5,9,7,8,Bon manager,ZH
+SRV-00266,France,Paris,IT,G5,10,7,9,8,Outils lents,EN
+SRV-00267,Chili,Santiago,Production,G10,2,7,7,5,Très satisfait,FR
+SRV-00268,Allemagne,Dortmund,Quality,G5,9,9,10,0,Charge élevée,ES
+SRV-00269,Espagne,Madrid,Quality,G6,5,5,10,8,Bon manager,ES
+SRV-00270,Espagne,Madrid,Marketing,G8,7,1,4,5,Bon manager,ZH
+SRV-00271,Chine,Shanghai,HR,G8,4,4,1,10,Charge élevée,ZH
+SRV-00272,Chili,Santiago,Marketing,G8,3,4,9,6,Bon manager,ZH
+SRV-00273,Chine,Shanghai,Supply Chain,G5,8,6,4,0,,DE
+SRV-00274,France,Paris,Finance,G9,10,6,10,6,,EN
+SRV-00275,France,Paris,Finance,G9,1,5,8,3,Outils lents,ZH
+SRV-00276,Chine,Shanghai,Sales,G10,8,4,5,4,,ES
+SRV-00277,Allemagne,Dortmund,IT,G8,3,5,9,0,Charge élevée,EN
+SRV-00278,Chine,Shanghai,IT,G6,2,7,9,7,Très satisfait,ES
+SRV-00279,Pologne,Wroclaw,Production,G10,7,10,9,8,Bon manager,EN
+SRV-00280,Chili,Santiago,Quality,G9,4,8,9,1,Outils lents,FR
+SRV-00281,Allemagne,Dortmund,Marketing,G6,3,10,6,6,,FR
+SRV-00282,Chine,Shanghai,Sales,G7,7,5,2,3,Charge élevée,DE
+SRV-00283,Espagne,Madrid,Supply Chain,G10,8,8,5,4,Charge élevée,ES
+SRV-00284,Chine,Shanghai,Supply Chain,G9,9,4,4,10,,ZH
+SRV-00285,Allemagne,Dortmund,Supply Chain,G5,5,4,5,6,Manque de mobilité,DE
+SRV-00286,Espagne,Madrid,Finance,G10,7,5,9,2,,DE
+SRV-00287,Pologne,Wroclaw,Production,G6,8,5,5,10,,EN
+SRV-00288,Pologne,Wroclaw,IT,G7,7,9,8,3,Manque de mobilité,FR
+SRV-00289,Chine,Shanghai,Quality,G9,3,5,4,9,Outils lents,ES
+SRV-00290,France,Paris,IT,G7,1,10,9,10,Outils lents,DE
+SRV-00291,France,Limoges,IT,G9,4,8,6,1,Manque de mobilité,ES
+SRV-00292,Pologne,Wroclaw,Marketing,G9,6,9,1,2,Outils lents,EN
+SRV-00293,Chili,Santiago,Sales,G8,2,10,3,5,,DE
+SRV-00294,Chine,Shanghai,Quality,G5,10,10,2,7,,FR
+SRV-00295,Espagne,Madrid,Quality,G9,4,7,8,2,,ZH
+SRV-00296,Allemagne,Dortmund,Production,G7,2,6,3,2,Charge élevée,EN
+SRV-00297,Espagne,Madrid,Supply Chain,G10,8,8,10,10,Charge élevée,DE
+SRV-00298,Chili,Santiago,Production,G6,3,3,1,8,,ES
+SRV-00299,Allemagne,Dortmund,Supply Chain,G6,6,2,5,5,Très satisfait,DE
+SRV-00300,Chili,Santiago,Quality,G8,6,8,8,4,Très satisfait,FR
+SRV-00301,Pologne,Wroclaw,Supply Chain,G7,2,8,2,7,Charge élevée,DE
+SRV-00302,France,Limoges,Quality,G10,3,2,3,8,,DE
+SRV-00303,Allemagne,Dortmund,Quality,G5,1,1,7,10,Très satisfait,FR
+SRV-00304,Espagne,Madrid,Finance,G5,7,9,5,6,,EN
+SRV-00305,Espagne,Madrid,Quality,G9,7,4,6,0,Manque de mobilité,ES
+SRV-00306,Chine,Shanghai,Production,G10,9,7,8,10,,ZH
+SRV-00307,Espagne,Madrid,HR,G8,5,10,7,3,,ZH
+SRV-00308,France,Paris,Production,G5,9,1,9,6,Très satisfait,FR
+SRV-00309,Pologne,Wroclaw,Marketing,G9,8,6,5,5,Bon manager,FR
+SRV-00310,Espagne,Madrid,Marketing,G9,9,6,10,3,,FR
+SRV-00311,Espagne,Madrid,Sales,G6,3,7,10,0,Très satisfait,DE
+SRV-00312,Chine,Shanghai,Production,G10,7,8,6,5,,DE
+SRV-00313,Espagne,Madrid,Sales,G9,6,4,5,9,,FR
+SRV-00314,Allemagne,Dortmund,Production,G9,5,7,3,5,Outils lents,EN
+SRV-00315,Pologne,Wroclaw,Finance,G7,5,7,5,4,Charge élevée,EN
+SRV-00316,Chili,Santiago,Production,G7,9,1,7,5,Outils lents,ES
+SRV-00317,Espagne,Madrid,Quality,G7,6,5,8,8,Bon manager,DE
+SRV-00318,Espagne,Madrid,Quality,G7,3,6,6,8,,ZH
+SRV-00319,Allemagne,Dortmund,Quality,G7,1,1,2,3,,EN
+SRV-00320,Pologne,Wroclaw,Finance,G5,10,2,9,7,Charge élevée,ZH
+SRV-00321,France,Paris,Marketing,G8,4,2,4,3,Charge élevée,ES
+SRV-00322,Espagne,Madrid,IT,G6,10,3,7,2,Outils lents,DE
+SRV-00323,Chine,Shanghai,Production,G7,8,1,3,4,Manque de mobilité,ES
+SRV-00324,Allemagne,Dortmund,Finance,G6,1,10,7,9,Manque de mobilité,FR
+SRV-00325,Allemagne,Dortmund,IT,G6,3,2,7,1,Manque de mobilité,DE
+SRV-00326,France,Paris,Sales,G7,4,5,2,5,Bon manager,EN
+SRV-00327,France,Limoges,HR,G6,7,1,2,1,Bon manager,ZH
+SRV-00328,Espagne,Madrid,Marketing,G7,10,4,6,1,Outils lents,ES
+SRV-00329,Chine,Shanghai,Finance,G6,9,8,7,7,Très satisfait,DE
+SRV-00330,Chine,Shanghai,Quality,G10,7,1,6,9,Manque de mobilité,FR
+SRV-00331,Allemagne,Dortmund,Supply Chain,G7,9,8,2,3,,ZH
+SRV-00332,Chine,Shanghai,Sales,G8,1,9,2,2,Bon manager,FR
+SRV-00333,Pologne,Wroclaw,IT,G6,1,6,6,4,Charge élevée,EN
+SRV-00334,Espagne,Madrid,Marketing,G8,4,4,9,0,Charge élevée,ZH
+SRV-00335,France,Limoges,Finance,G5,6,8,3,2,Charge élevée,EN
+SRV-00336,France,Paris,Production,G10,8,8,5,7,Manque de mobilité,ES
+SRV-00337,Chine,Shanghai,Finance,G7,2,3,4,6,,ZH
+SRV-00338,Pologne,Wroclaw,IT,G8,8,10,5,2,Charge élevée,ES
+SRV-00339,Allemagne,Dortmund,IT,G5,1,4,6,0,Bon manager,DE
+SRV-00340,Pologne,Wroclaw,Sales,G5,2,5,5,0,,FR
+SRV-00341,France,Paris,HR,G7,4,1,1,8,,DE
+SRV-00342,Espagne,Madrid,Finance,G7,7,8,2,10,Charge élevée,ZH
+SRV-00343,Chili,Santiago,Production,G7,3,6,9,5,Bon manager,EN
+SRV-00344,Chine,Shanghai,Finance,G9,3,9,8,9,Charge élevée,DE
+SRV-00345,Chili,Santiago,Supply Chain,G10,3,5,4,5,Très satisfait,DE
+SRV-00346,Chine,Shanghai,Sales,G7,6,1,4,7,Manque de mobilité,EN
+SRV-00347,Allemagne,Dortmund,Production,G9,1,3,3,4,Très satisfait,ES
+SRV-00348,Pologne,Wroclaw,Quality,G8,3,5,7,1,,ZH
+SRV-00349,Pologne,Wroclaw,Supply Chain,G9,10,7,4,6,,EN
+SRV-00350,Espagne,Madrid,Finance,G9,1,2,6,1,Bon manager,ES
+SRV-00351,Allemagne,Dortmund,Finance,G7,5,5,9,2,Outils lents,EN
+SRV-00352,Chili,Santiago,IT,G7,5,10,5,1,Outils lents,EN
+SRV-00353,Espagne,Madrid,IT,G9,10,6,3,6,,DE
+SRV-00354,Pologne,Wroclaw,Supply Chain,G8,2,4,7,4,Manque de mobilité,ZH
+SRV-00355,Chine,Shanghai,Supply Chain,G7,7,9,7,4,Bon manager,ES
+SRV-00356,France,Paris,Sales,G9,7,2,4,3,Charge élevée,DE
+SRV-00357,Chili,Santiago,Sales,G6,3,3,6,5,Très satisfait,ZH
+SRV-00358,Pologne,Wroclaw,IT,G5,6,4,3,4,Très satisfait,ZH
+SRV-00359,Allemagne,Dortmund,Marketing,G7,8,9,2,7,,DE
+SRV-00360,Espagne,Madrid,Finance,G9,6,8,9,2,,FR
+SRV-00361,Espagne,Madrid,HR,G7,2,10,4,5,Charge élevée,FR
+SRV-00362,Espagne,Madrid,Supply Chain,G10,7,6,8,4,,EN
+SRV-00363,Allemagne,Dortmund,Supply Chain,G6,6,2,9,2,Outils lents,ZH
+SRV-00364,Chili,Santiago,IT,G8,4,9,10,4,,EN
+SRV-00365,Espagne,Madrid,Supply Chain,G6,9,2,7,0,Très satisfait,DE
+SRV-00366,Chine,Shanghai,Sales,G8,9,6,1,9,Charge élevée,EN
+SRV-00367,Chili,Santiago,Quality,G7,10,1,3,3,Très satisfait,DE
+SRV-00368,Espagne,Madrid,Production,G6,10,2,1,7,Manque de mobilité,DE
+SRV-00369,Chine,Shanghai,Quality,G7,3,10,6,6,Outils lents,EN
+SRV-00370,Allemagne,Dortmund,IT,G7,3,4,4,10,Bon manager,ES
+SRV-00371,Allemagne,Dortmund,HR,G9,5,4,8,2,Charge élevée,FR
+SRV-00372,France,Paris,IT,G7,9,6,7,1,Manque de mobilité,EN
+SRV-00373,Chili,Santiago,Marketing,G10,5,3,7,2,,EN
+SRV-00374,Chine,Shanghai,Quality,G10,3,10,6,9,Très satisfait,ZH
+SRV-00375,Chili,Santiago,Production,G7,8,7,7,6,,ZH
+SRV-00376,Pologne,Wroclaw,Quality,G7,5,6,8,5,Manque de mobilité,ZH
+SRV-00377,France,Paris,IT,G9,2,9,2,2,,ZH
+SRV-00378,Chine,Shanghai,Finance,G8,1,5,1,8,Outils lents,ES
+SRV-00379,Chine,Shanghai,Finance,G7,8,10,4,7,Outils lents,ZH
+SRV-00380,Pologne,Wroclaw,Sales,G10,10,2,4,10,Très satisfait,DE
+SRV-00381,Allemagne,Dortmund,Supply Chain,G8,4,9,5,3,Bon manager,ZH
+SRV-00382,Espagne,Madrid,Sales,G8,8,10,9,2,,EN
+SRV-00383,France,Paris,Supply Chain,G8,4,5,6,2,Manque de mobilité,ZH
+SRV-00384,France,Paris,Sales,G6,2,3,6,5,,FR
+SRV-00385,Chine,Shanghai,Finance,G9,5,2,1,5,,ES
+SRV-00386,Chili,Santiago,Finance,G8,9,5,3,9,Charge élevée,ES
+SRV-00387,France,Limoges,Marketing,G7,3,3,4,3,,FR
+SRV-00388,Pologne,Wroclaw,Sales,G10,8,5,10,0,Charge élevée,DE
+SRV-00389,Espagne,Madrid,Finance,G5,8,5,8,6,,ZH
+SRV-00390,Espagne,Madrid,Finance,G7,7,1,8,5,Manque de mobilité,FR
+SRV-00391,Chine,Shanghai,Quality,G9,3,9,3,6,Outils lents,FR
+SRV-00392,Pologne,Wroclaw,Marketing,G5,3,8,2,2,Outils lents,FR
+SRV-00393,Chine,Shanghai,Quality,G8,9,7,1,2,Très satisfait,ES
+SRV-00394,Pologne,Wroclaw,Supply Chain,G6,2,9,4,1,,DE
+SRV-00395,Chine,Shanghai,Supply Chain,G8,1,8,2,7,Bon manager,FR
+SRV-00396,Espagne,Madrid,Production,G8,6,4,1,8,,ES
+SRV-00397,Chili,Santiago,Finance,G9,2,1,8,6,Bon manager,FR
+SRV-00398,Allemagne,Dortmund,IT,G6,7,4,3,6,Charge élevée,FR
+SRV-00399,Allemagne,Dortmund,Finance,G6,10,7,3,1,Très satisfait,FR
+SRV-00400,France,Paris,Sales,G10,5,4,6,4,Bon manager,ES
+SRV-00401,Chili,Santiago,Sales,G6,5,8,9,2,Très satisfait,ES
+SRV-00402,France,Limoges,Quality,G9,6,5,8,7,,DE
+SRV-00403,Chine,Shanghai,Production,G10,2,8,4,5,Charge élevée,EN
+SRV-00404,France,Limoges,Sales,G9,10,9,10,3,Bon manager,EN
+SRV-00405,Chili,Santiago,Supply Chain,G9,1,8,4,9,Outils lents,ES
+SRV-00406,Chili,Santiago,HR,G9,8,10,1,6,,ZH
+SRV-00407,Espagne,Madrid,IT,G10,1,8,3,0,Très satisfait,FR
+SRV-00408,Espagne,Madrid,IT,G7,2,2,8,7,,ES
+SRV-00409,France,Limoges,Production,G9,1,8,9,10,Charge élevée,DE
+SRV-00410,Pologne,Wroclaw,Finance,G8,10,1,9,6,Bon manager,ES
+SRV-00411,Allemagne,Dortmund,Finance,G6,10,6,7,1,Bon manager,DE
+SRV-00412,France,Paris,Sales,G5,10,2,1,0,Manque de mobilité,EN
+SRV-00413,Chili,Santiago,IT,G10,6,7,7,6,Outils lents,EN
+SRV-00414,Espagne,Madrid,Marketing,G7,9,9,8,1,,FR
+SRV-00415,Chine,Shanghai,Sales,G7,5,7,4,2,Très satisfait,DE
+SRV-00416,Espagne,Madrid,Production,G8,2,9,5,6,,ES
+SRV-00417,Chine,Shanghai,Supply Chain,G10,7,10,4,9,Manque de mobilité,ES
+SRV-00418,Chili,Santiago,IT,G7,10,10,9,4,,DE
+SRV-00419,Espagne,Madrid,Production,G5,1,7,5,3,Outils lents,EN
+SRV-00420,Chili,Santiago,Supply Chain,G8,7,4,6,8,,ZH
+SRV-00421,Allemagne,Dortmund,Quality,G8,8,10,7,0,,DE
+SRV-00422,France,Limoges,IT,G5,10,3,7,6,Charge élevée,ZH
+SRV-00423,Allemagne,Dortmund,IT,G5,4,8,10,2,Très satisfait,EN
+SRV-00424,Espagne,Madrid,Finance,G6,5,2,4,4,Très satisfait,ES
+SRV-00425,Chili,Santiago,IT,G9,9,4,1,2,,EN
+SRV-00426,Chine,Shanghai,Quality,G8,2,8,8,4,,ZH
+SRV-00427,Chine,Shanghai,Production,G5,10,2,3,1,Charge élevée,ES
+SRV-00428,Chili,Santiago,Production,G7,8,7,6,7,,ZH
+SRV-00429,Pologne,Wroclaw,Sales,G8,8,3,2,6,Outils lents,EN
+SRV-00430,Chili,Santiago,Quality,G7,2,5,10,5,Outils lents,ZH
+SRV-00431,Pologne,Wroclaw,IT,G10,5,7,5,8,Manque de mobilité,FR
+SRV-00432,Chili,Santiago,Marketing,G10,4,8,4,0,Très satisfait,ZH
+SRV-00433,France,Paris,Finance,G6,4,3,1,7,Bon manager,DE
+SRV-00434,Chili,Santiago,Sales,G9,7,1,1,10,Bon manager,ZH
+SRV-00435,Allemagne,Dortmund,HR,G10,10,7,5,4,Très satisfait,ES
+SRV-00436,Chine,Shanghai,Supply Chain,G10,1,6,4,4,Charge élevée,ZH
+SRV-00437,Allemagne,Dortmund,Marketing,G8,5,1,1,8,Charge élevée,ZH
+SRV-00438,Pologne,Wroclaw,Supply Chain,G7,8,3,1,0,Bon manager,DE
+SRV-00439,France,Paris,HR,G8,7,9,6,3,Outils lents,EN
+SRV-00440,Chine,Shanghai,IT,G6,4,4,7,10,Outils lents,DE
+SRV-00441,Chili,Santiago,Quality,G10,7,9,7,3,Charge élevée,ES
+SRV-00442,Pologne,Wroclaw,Sales,G5,7,1,9,6,Manque de mobilité,DE
+SRV-00443,France,Paris,Production,G7,6,8,1,2,Manque de mobilité,DE
+SRV-00444,Pologne,Wroclaw,IT,G6,5,7,2,3,Manque de mobilité,FR
+SRV-00445,Allemagne,Dortmund,HR,G6,6,9,7,1,Très satisfait,EN
+SRV-00446,Allemagne,Dortmund,IT,G6,7,8,3,2,,ZH
+SRV-00447,Pologne,Wroclaw,Production,G8,3,1,9,1,Outils lents,EN
+SRV-00448,Chili,Santiago,Marketing,G7,5,3,8,8,,DE
+SRV-00449,Chine,Shanghai,HR,G8,6,3,2,6,,FR
+SRV-00450,Chili,Santiago,Production,G8,7,2,5,7,,EN
+SRV-00451,France,Limoges,Finance,G5,8,1,9,5,,ES
+SRV-00452,Espagne,Madrid,Supply Chain,G8,5,9,6,5,,DE
+SRV-00453,Pologne,Wroclaw,IT,G9,4,1,9,1,Charge élevée,EN
+SRV-00454,Chine,Shanghai,Finance,G7,2,3,3,7,Bon manager,FR
+SRV-00455,Chili,Santiago,Supply Chain,G6,3,4,2,3,Manque de mobilité,FR
+SRV-00456,Chine,Shanghai,IT,G8,10,4,9,5,Bon manager,ZH
+SRV-00457,Chili,Santiago,Marketing,G6,9,6,7,4,Charge élevée,FR
+SRV-00458,Pologne,Wroclaw,Marketing,G8,4,1,3,7,Bon manager,DE
+SRV-00459,Espagne,Madrid,HR,G8,8,10,1,10,Outils lents,DE
+SRV-00460,Pologne,Wroclaw,HR,G6,6,1,10,1,Manque de mobilité,ES
+SRV-00461,Allemagne,Dortmund,Marketing,G9,1,4,3,8,Bon manager,DE
+SRV-00462,Espagne,Madrid,Production,G5,9,1,4,8,Manque de mobilité,ZH
+SRV-00463,Espagne,Madrid,Supply Chain,G10,10,1,3,7,Manque de mobilité,EN
+SRV-00464,Allemagne,Dortmund,Supply Chain,G10,9,10,3,7,,DE
+SRV-00465,Pologne,Wroclaw,HR,G8,2,10,7,9,Très satisfait,DE
+SRV-00466,Chine,Shanghai,Marketing,G10,1,10,8,7,Charge élevée,ZH
+SRV-00467,Espagne,Madrid,Sales,G8,5,5,2,3,,FR
+SRV-00468,Allemagne,Dortmund,Production,G7,10,9,3,7,,ES
+SRV-00469,Allemagne,Dortmund,Production,G10,6,4,7,5,,ZH
+SRV-00470,Pologne,Wroclaw,Sales,G7,3,10,7,5,,EN
+SRV-00471,Chili,Santiago,Production,G8,8,7,8,3,Bon manager,ES
+SRV-00472,Pologne,Wroclaw,Sales,G8,5,5,2,1,Charge élevée,ES
+SRV-00473,Pologne,Wroclaw,Marketing,G10,7,10,1,2,,ZH
+SRV-00474,Chine,Shanghai,Quality,G7,4,7,8,5,,ZH
+SRV-00475,Allemagne,Dortmund,Marketing,G10,4,10,1,0,,DE
+SRV-00476,France,Limoges,Marketing,G6,9,8,1,3,Bon manager,FR
+SRV-00477,Chili,Santiago,Production,G5,8,5,6,10,Bon manager,ZH
+SRV-00478,Chine,Shanghai,IT,G5,8,1,5,7,Bon manager,ZH
+SRV-00479,Espagne,Madrid,Sales,G7,2,1,6,8,Très satisfait,EN
+SRV-00480,Espagne,Madrid,Supply Chain,G6,7,7,3,4,Bon manager,ZH
+SRV-00481,Pologne,Wroclaw,Quality,G6,7,2,4,4,Bon manager,ZH
+SRV-00482,Allemagne,Dortmund,HR,G6,5,2,4,3,Bon manager,EN
+SRV-00483,Espagne,Madrid,Marketing,G8,5,8,8,1,,ES
+SRV-00484,Espagne,Madrid,HR,G9,8,4,10,7,,DE
+SRV-00485,France,Limoges,Finance,G10,9,1,2,2,Bon manager,EN
+SRV-00486,Espagne,Madrid,Sales,G7,6,9,3,10,Manque de mobilité,DE
+SRV-00487,France,Limoges,Finance,G6,2,10,5,3,Outils lents,ZH
+SRV-00488,Allemagne,Dortmund,Production,G7,6,8,2,3,Outils lents,EN
+SRV-00489,Chili,Santiago,Finance,G9,6,2,7,3,Manque de mobilité,ZH
+SRV-00490,Allemagne,Dortmund,Sales,G9,5,2,8,5,,EN
+SRV-00491,Chili,Santiago,Production,G6,1,1,5,0,Manque de mobilité,ZH
+SRV-00492,Chine,Shanghai,Quality,G6,1,6,9,6,,FR
+SRV-00493,France,Paris,IT,G8,5,4,9,2,,DE
+SRV-00494,Pologne,Wroclaw,Supply Chain,G8,1,4,9,10,Très satisfait,ES
+SRV-00495,Chili,Santiago,HR,G7,4,10,4,3,Très satisfait,ZH
+SRV-00496,Pologne,Wroclaw,Finance,G5,4,2,8,8,Bon manager,ZH
+SRV-00497,Pologne,Wroclaw,Finance,G8,5,6,6,7,Charge élevée,EN
+SRV-00498,Allemagne,Dortmund,Production,G6,1,10,8,1,,EN
+SRV-00499,Chine,Shanghai,Supply Chain,G7,3,8,8,5,,ZH
+SRV-00500,Pologne,Wroclaw,Marketing,G6,8,10,5,4,Charge élevée,ZH
+SRV-00501,Chine,Shanghai,Quality,G9,5,7,5,8,,ZH
+SRV-00502,Chine,Shanghai,Supply Chain,G10,4,2,5,4,Bon manager,ES
+SRV-00503,Espagne,Madrid,Sales,G8,7,2,6,4,Manque de mobilité,FR
+SRV-00504,Chili,Santiago,Quality,G5,4,4,8,9,Outils lents,DE
+SRV-00505,Allemagne,Dortmund,Finance,G6,1,5,8,5,Charge élevée,ZH
+SRV-00506,Chili,Santiago,Finance,G9,5,1,4,0,Charge élevée,EN
+SRV-00507,Chili,Santiago,Marketing,G8,1,6,10,5,,EN
+SRV-00508,France,Limoges,Finance,G9,1,8,10,8,Outils lents,ZH
+SRV-00509,Pologne,Wroclaw,Sales,G7,9,4,9,10,Bon manager,ES
+SRV-00510,France,Limoges,Finance,G7,3,7,2,10,Bon manager,DE
+SRV-00511,Chili,Santiago,IT,G5,5,4,6,1,,DE
+SRV-00512,Chili,Santiago,Supply Chain,G8,8,6,8,6,Outils lents,ZH
+SRV-00513,Pologne,Wroclaw,Supply Chain,G10,3,5,2,8,Outils lents,EN
+SRV-00514,Allemagne,Dortmund,HR,G5,9,9,4,1,Bon manager,FR
+SRV-00515,Pologne,Wroclaw,Marketing,G6,2,8,3,8,Charge élevée,DE
+SRV-00516,France,Limoges,Finance,G8,10,5,5,10,Bon manager,ES
+SRV-00517,Allemagne,Dortmund,HR,G8,3,4,7,10,Bon manager,DE
+SRV-00518,Espagne,Madrid,Marketing,G10,8,4,1,9,Charge élevée,EN
+SRV-00519,France,Limoges,Marketing,G7,5,2,4,2,Bon manager,ES
+SRV-00520,Chine,Shanghai,HR,G9,7,8,3,9,Bon manager,FR
+SRV-00521,Pologne,Wroclaw,HR,G10,1,6,6,10,Manque de mobilité,ZH
+SRV-00522,Chine,Shanghai,Quality,G7,10,8,10,9,Charge élevée,ZH
+SRV-00523,Chili,Santiago,Marketing,G8,1,4,3,3,Bon manager,DE
+SRV-00524,Chine,Shanghai,Finance,G8,7,8,6,6,Charge élevée,EN
+SRV-00525,Pologne,Wroclaw,Finance,G10,10,3,6,1,,DE
+SRV-00526,Chili,Santiago,IT,G5,2,2,3,4,Charge élevée,FR
+SRV-00527,Espagne,Madrid,HR,G7,6,3,1,6,,DE
+SRV-00528,Pologne,Wroclaw,Marketing,G9,4,2,8,6,,DE
+SRV-00529,Allemagne,Dortmund,Finance,G6,2,1,3,4,Bon manager,ZH
+SRV-00530,Allemagne,Dortmund,Finance,G8,7,8,6,0,Charge élevée,EN
+SRV-00531,Espagne,Madrid,Production,G8,6,10,9,2,Très satisfait,FR
+SRV-00532,Chili,Santiago,Finance,G5,10,2,6,1,,ES
+SRV-00533,Chili,Santiago,IT,G6,5,2,1,2,Très satisfait,EN
+SRV-00534,Chine,Shanghai,Marketing,G7,10,7,9,0,Charge élevée,EN
+SRV-00535,Pologne,Wroclaw,Sales,G9,1,4,1,0,Bon manager,FR
+SRV-00536,Espagne,Madrid,Sales,G7,5,4,5,10,Manque de mobilité,DE
+SRV-00537,Espagne,Madrid,IT,G10,7,8,7,4,Manque de mobilité,ZH
+SRV-00538,France,Paris,Production,G5,5,4,7,0,Manque de mobilité,DE
+SRV-00539,Espagne,Madrid,Finance,G7,8,7,4,7,Outils lents,FR
+SRV-00540,France,Paris,Production,G5,2,5,5,5,Manque de mobilité,DE
+SRV-00541,Chine,Shanghai,Quality,G5,9,1,8,4,,EN
+SRV-00542,France,Paris,Quality,G6,7,2,8,8,Bon manager,ES
+SRV-00543,Chine,Shanghai,Quality,G5,9,6,8,6,Outils lents,ZH
+SRV-00544,Espagne,Madrid,Sales,G10,9,5,2,4,Bon manager,ZH
+SRV-00545,Chine,Shanghai,Supply Chain,G9,5,9,6,8,Charge élevée,ES
+SRV-00546,Espagne,Madrid,Supply Chain,G8,7,7,6,4,Manque de mobilité,DE
+SRV-00547,Chine,Shanghai,Marketing,G5,4,7,10,3,Manque de mobilité,ZH
+SRV-00548,Pologne,Wroclaw,IT,G7,7,6,7,5,Manque de mobilité,ZH
+SRV-00549,Chili,Santiago,IT,G9,1,1,3,1,,ZH
+SRV-00550,Allemagne,Dortmund,HR,G7,7,1,9,1,,ES
+SRV-00551,France,Paris,Supply Chain,G9,2,6,5,6,,ZH
+SRV-00552,Espagne,Madrid,HR,G9,9,4,1,9,,DE
+SRV-00553,Pologne,Wroclaw,Finance,G10,9,2,6,2,,FR
+SRV-00554,Chine,Shanghai,Production,G8,1,1,10,1,,EN
+SRV-00555,France,Limoges,Sales,G10,8,2,4,3,Bon manager,ES
+SRV-00556,Chili,Santiago,Supply Chain,G8,5,1,9,10,Très satisfait,DE
+SRV-00557,Allemagne,Dortmund,Quality,G5,1,9,7,3,Manque de mobilité,FR
+SRV-00558,Allemagne,Dortmund,Marketing,G8,4,6,1,8,,DE
+SRV-00559,Chili,Santiago,Marketing,G9,3,7,9,5,,ES
+SRV-00560,Allemagne,Dortmund,Sales,G5,3,5,7,3,Manque de mobilité,DE
+SRV-00561,Chili,Santiago,Marketing,G6,5,8,3,2,Charge élevée,FR
+SRV-00562,Allemagne,Dortmund,HR,G10,10,1,7,6,Manque de mobilité,ES
+SRV-00563,Pologne,Wroclaw,Production,G6,8,5,5,7,,FR
+SRV-00564,Chili,Santiago,Finance,G8,4,4,3,7,Charge élevée,DE
+SRV-00565,Chili,Santiago,Supply Chain,G10,5,10,3,6,Manque de mobilité,ES
+SRV-00566,Chili,Santiago,Production,G9,2,1,2,4,Bon manager,ZH
+SRV-00567,Pologne,Wroclaw,IT,G7,2,3,9,1,,EN
+SRV-00568,France,Paris,Finance,G5,8,4,2,0,Très satisfait,ZH
+SRV-00569,Espagne,Madrid,IT,G10,3,1,8,5,Manque de mobilité,ZH
+SRV-00570,Chili,Santiago,HR,G5,2,5,5,10,Outils lents,ZH
+SRV-00571,Chine,Shanghai,Sales,G7,3,9,10,5,Manque de mobilité,ZH
+SRV-00572,Espagne,Madrid,Marketing,G8,5,7,6,8,Charge élevée,DE
+SRV-00573,Allemagne,Dortmund,HR,G6,4,9,4,1,Outils lents,EN
+SRV-00574,Espagne,Madrid,Sales,G10,5,8,10,4,Outils lents,ES
+SRV-00575,Espagne,Madrid,Quality,G7,5,3,8,2,Bon manager,EN
+SRV-00576,Chili,Santiago,Marketing,G7,9,4,9,7,,EN
+SRV-00577,Espagne,Madrid,Sales,G9,6,7,8,4,Manque de mobilité,EN
+SRV-00578,Allemagne,Dortmund,HR,G6,9,5,2,4,Manque de mobilité,ZH
+SRV-00579,France,Limoges,Marketing,G10,7,6,9,3,,ES
+SRV-00580,Chili,Santiago,HR,G6,7,5,4,5,Manque de mobilité,ZH
+SRV-00581,Chine,Shanghai,Finance,G6,8,2,3,6,Très satisfait,DE
+SRV-00582,France,Limoges,IT,G8,8,6,8,0,Manque de mobilité,ZH
+SRV-00583,Chine,Shanghai,Production,G6,9,9,9,10,,ES
+SRV-00584,Pologne,Wroclaw,Quality,G6,2,5,1,8,Outils lents,EN
+SRV-00585,Chili,Santiago,Finance,G6,3,3,8,3,Manque de mobilité,ZH
+SRV-00586,Allemagne,Dortmund,Finance,G5,3,1,9,2,Charge élevée,DE
+SRV-00587,Chili,Santiago,Supply Chain,G10,4,8,1,9,Charge élevée,EN
+SRV-00588,Chili,Santiago,HR,G6,7,2,4,9,Bon manager,ES
+SRV-00589,Chili,Santiago,Sales,G6,5,4,5,0,Très satisfait,ZH
+SRV-00590,Allemagne,Dortmund,Production,G10,10,10,8,5,Très satisfait,ES
+SRV-00591,Chili,Santiago,Supply Chain,G9,6,4,7,0,Outils lents,DE
+SRV-00592,France,Limoges,HR,G10,9,1,9,5,Bon manager,FR
+SRV-00593,Chine,Shanghai,Sales,G8,5,10,8,0,Charge élevée,FR
+SRV-00594,France,Paris,IT,G8,1,7,2,10,,DE
+SRV-00595,Pologne,Wroclaw,Marketing,G7,2,4,6,2,Bon manager,FR
+SRV-00596,Pologne,Wroclaw,Marketing,G6,7,9,3,1,Bon manager,DE
+SRV-00597,Pologne,Wroclaw,Production,G5,9,4,10,0,,DE
+SRV-00598,Chine,Shanghai,HR,G6,4,9,2,3,Outils lents,FR
+SRV-00599,Chili,Santiago,Sales,G8,5,2,9,9,,EN
+SRV-00600,Chine,Shanghai,Supply Chain,G8,8,1,5,2,Bon manager,ES
+SRV-00601,Chine,Shanghai,Supply Chain,G8,7,3,3,8,Manque de mobilité,FR
+SRV-00602,France,Limoges,Finance,G7,1,5,3,4,Manque de mobilité,FR
+SRV-00603,Espagne,Madrid,Supply Chain,G6,8,1,3,3,,DE
+SRV-00604,France,Limoges,Supply Chain,G5,1,6,9,3,,FR
+SRV-00605,France,Paris,HR,G7,2,7,5,7,Manque de mobilité,ZH
+SRV-00606,Pologne,Wroclaw,Marketing,G10,2,5,6,2,Très satisfait,DE
+SRV-00607,Pologne,Wroclaw,Quality,G8,4,9,10,8,,DE
+SRV-00608,Espagne,Madrid,Finance,G10,3,8,4,10,Charge élevée,FR
+SRV-00609,Chine,Shanghai,Quality,G8,4,6,1,1,Bon manager,ZH
+SRV-00610,France,Paris,Quality,G6,4,2,10,1,Bon manager,EN
+SRV-00611,Pologne,Wroclaw,Quality,G9,10,3,6,1,Manque de mobilité,ES
+SRV-00612,Espagne,Madrid,Supply Chain,G7,2,3,2,3,Manque de mobilité,FR
+SRV-00613,Chine,Shanghai,Supply Chain,G6,1,9,2,6,Outils lents,EN
+SRV-00614,Chine,Shanghai,HR,G10,4,3,6,10,Manque de mobilité,ES
+SRV-00615,France,Limoges,Quality,G8,8,10,1,9,Très satisfait,DE
+SRV-00616,Allemagne,Dortmund,Quality,G9,7,10,10,8,Manque de mobilité,EN
+SRV-00617,Allemagne,Dortmund,Sales,G8,4,3,2,0,,FR
+SRV-00618,Allemagne,Dortmund,Supply Chain,G7,5,2,5,5,Très satisfait,EN
+SRV-00619,Chine,Shanghai,HR,G10,8,4,10,4,,EN
+SRV-00620,Chili,Santiago,Production,G5,8,7,1,6,Charge élevée,EN
+SRV-00621,Allemagne,Dortmund,Production,G9,3,7,4,8,,ZH
+SRV-00622,Pologne,Wroclaw,Production,G5,2,6,9,0,,ZH
+SRV-00623,Chine,Shanghai,HR,G7,5,7,5,10,Très satisfait,ZH
+SRV-00624,Chine,Shanghai,Sales,G8,8,6,4,5,Très satisfait,ZH
+SRV-00625,Chili,Santiago,Marketing,G6,5,10,5,0,Manque de mobilité,FR
+SRV-00626,Chine,Shanghai,IT,G10,4,1,6,4,Très satisfait,ZH
+SRV-00627,Pologne,Wroclaw,Supply Chain,G6,3,5,7,6,,ES
+SRV-00628,Espagne,Madrid,Production,G5,3,8,6,6,Bon manager,ES
+SRV-00629,Chine,Shanghai,IT,G5,4,10,2,9,Manque de mobilité,FR
+SRV-00630,Espagne,Madrid,IT,G7,1,2,7,3,Très satisfait,FR
+SRV-00631,Chili,Santiago,IT,G6,10,3,7,6,Manque de mobilité,FR
+SRV-00632,Espagne,Madrid,IT,G6,6,7,7,10,Très satisfait,EN
+SRV-00633,Chine,Shanghai,IT,G6,8,5,10,4,Manque de mobilité,ES
+SRV-00634,Espagne,Madrid,Production,G6,6,6,9,7,Bon manager,DE
+SRV-00635,Pologne,Wroclaw,IT,G10,3,8,5,0,,DE
+SRV-00636,Pologne,Wroclaw,Production,G7,4,9,9,6,Bon manager,FR
+SRV-00637,Allemagne,Dortmund,Finance,G5,7,4,5,8,Outils lents,ZH
+SRV-00638,Chine,Shanghai,Production,G8,10,3,4,10,Très satisfait,EN
+SRV-00639,Pologne,Wroclaw,Sales,G10,10,4,8,4,Charge élevée,ZH
+SRV-00640,Chine,Shanghai,Marketing,G10,5,2,2,7,Bon manager,EN
+SRV-00641,Espagne,Madrid,HR,G7,3,9,10,1,Outils lents,ES
+SRV-00642,Pologne,Wroclaw,Finance,G6,9,7,4,9,Charge élevée,ES
+SRV-00643,Chine,Shanghai,HR,G8,7,10,7,8,,ZH
+SRV-00644,Allemagne,Dortmund,HR,G8,4,9,2,6,Charge élevée,FR
+SRV-00645,Chili,Santiago,Marketing,G5,8,5,3,8,Bon manager,FR
+SRV-00646,Chine,Shanghai,Finance,G6,10,2,2,7,,FR
+SRV-00647,Allemagne,Dortmund,Production,G8,10,1,4,2,Manque de mobilité,EN
+SRV-00648,Chili,Santiago,Quality,G7,1,8,2,8,Très satisfait,ZH
+SRV-00649,Chine,Shanghai,HR,G10,1,5,10,9,Outils lents,ES
+SRV-00650,Chine,Shanghai,Quality,G7,5,6,9,7,Outils lents,EN
+SRV-00651,Allemagne,Dortmund,Marketing,G6,4,7,6,10,Charge élevée,FR
+SRV-00652,Chili,Santiago,Marketing,G6,8,7,2,5,,DE
+SRV-00653,Espagne,Madrid,Supply Chain,G9,8,8,1,2,Outils lents,DE
+SRV-00654,France,Limoges,Supply Chain,G8,2,5,7,9,Très satisfait,ES
+SRV-00655,Chili,Santiago,Finance,G6,6,10,2,9,,ES
+SRV-00656,Allemagne,Dortmund,HR,G10,1,5,3,1,,FR
+SRV-00657,Pologne,Wroclaw,Production,G8,8,7,5,9,Outils lents,ZH
+SRV-00658,Allemagne,Dortmund,HR,G8,8,6,3,4,Charge élevée,DE
+SRV-00659,Espagne,Madrid,Finance,G5,2,9,7,0,Outils lents,EN
+SRV-00660,Chili,Santiago,Quality,G5,9,3,2,3,Bon manager,DE
+SRV-00661,Pologne,Wroclaw,Supply Chain,G9,5,8,6,5,Charge élevée,ZH
+SRV-00662,Espagne,Madrid,HR,G8,7,3,6,0,,ES
+SRV-00663,Espagne,Madrid,Production,G8,6,10,8,1,Outils lents,EN
+SRV-00664,Espagne,Madrid,Marketing,G7,6,1,4,5,Bon manager,ES
+SRV-00665,Allemagne,Dortmund,Finance,G7,4,10,5,8,Très satisfait,FR
+SRV-00666,Chine,Shanghai,Sales,G10,4,8,2,2,Charge élevée,DE
+SRV-00667,Allemagne,Dortmund,Quality,G10,5,7,1,8,,ZH
+SRV-00668,Chine,Shanghai,Production,G10,8,3,6,9,Bon manager,ES
+SRV-00669,Allemagne,Dortmund,Marketing,G10,1,5,9,2,Bon manager,ES
+SRV-00670,Allemagne,Dortmund,IT,G7,7,3,2,3,Bon manager,ES
+SRV-00671,Allemagne,Dortmund,HR,G10,6,4,7,1,,ES
+SRV-00672,Allemagne,Dortmund,Quality,G7,3,6,3,6,,DE
+SRV-00673,Chine,Shanghai,IT,G5,4,9,8,9,,ZH
+SRV-00674,Espagne,Madrid,Sales,G5,7,4,4,8,Charge élevée,FR
+SRV-00675,Chine,Shanghai,Marketing,G9,4,3,6,10,,EN
+SRV-00676,Chili,Santiago,HR,G10,8,3,7,6,Charge élevée,EN
+SRV-00677,France,Paris,IT,G6,8,5,1,3,,DE
+SRV-00678,Espagne,Madrid,Finance,G8,2,4,3,1,,ES
+SRV-00679,Chine,Shanghai,Production,G8,7,2,9,4,Outils lents,EN
+SRV-00680,Pologne,Wroclaw,HR,G8,6,1,7,2,Bon manager,FR
+SRV-00681,Chili,Santiago,HR,G10,3,4,6,1,Outils lents,DE
+SRV-00682,Pologne,Wroclaw,Supply Chain,G5,10,10,6,8,Très satisfait,EN
+SRV-00683,Chili,Santiago,Production,G10,7,9,1,10,Manque de mobilité,FR
+SRV-00684,Pologne,Wroclaw,Marketing,G5,8,10,10,3,Bon manager,DE
+SRV-00685,Chili,Santiago,Production,G7,8,6,6,1,Manque de mobilité,DE
+SRV-00686,Allemagne,Dortmund,Production,G10,6,1,3,7,Bon manager,FR
+SRV-00687,Chine,Shanghai,Production,G6,10,6,4,0,Outils lents,ZH
+SRV-00688,Chine,Shanghai,Finance,G6,1,9,10,5,Bon manager,ES
+SRV-00689,Espagne,Madrid,HR,G5,6,9,1,4,,DE
+SRV-00690,France,Paris,HR,G9,4,5,5,9,,FR
+SRV-00691,Chine,Shanghai,Production,G7,9,8,8,10,,EN
+SRV-00692,Espagne,Madrid,Finance,G6,1,5,4,3,,DE
+SRV-00693,Chili,Santiago,Sales,G5,3,8,4,5,Bon manager,ZH
+SRV-00694,Allemagne,Dortmund,Finance,G6,5,1,4,10,,EN
+SRV-00695,Espagne,Madrid,Finance,G5,8,8,5,5,,ES
+SRV-00696,France,Paris,Finance,G7,1,10,6,1,Très satisfait,FR
+SRV-00697,Pologne,Wroclaw,Supply Chain,G5,10,8,8,7,Manque de mobilité,EN
+SRV-00698,Chine,Shanghai,HR,G5,5,6,4,1,Outils lents,DE
+SRV-00699,Allemagne,Dortmund,Production,G9,3,3,6,4,Outils lents,ES
+SRV-00700,Chili,Santiago,HR,G7,7,4,1,7,Bon manager,ES
+SRV-00701,Espagne,Madrid,Supply Chain,G5,3,1,6,8,,FR
+SRV-00702,Chili,Santiago,Marketing,G5,1,1,5,10,,EN
+SRV-00703,Espagne,Madrid,IT,G8,6,9,3,10,Très satisfait,FR
+SRV-00704,Allemagne,Dortmund,HR,G6,8,3,6,0,Outils lents,ZH
+SRV-00705,Pologne,Wroclaw,Production,G7,3,4,1,2,Charge élevée,DE
+SRV-00706,Espagne,Madrid,Sales,G10,5,9,3,2,Charge élevée,ZH
+SRV-00707,Chine,Shanghai,HR,G9,9,7,1,3,Charge élevée,ZH
+SRV-00708,Chili,Santiago,Quality,G9,7,6,7,7,,EN
+SRV-00709,Chine,Shanghai,Marketing,G10,2,5,9,5,Charge élevée,EN
+SRV-00710,Chine,Shanghai,Quality,G6,1,3,4,10,,ZH
+SRV-00711,Chili,Santiago,IT,G6,7,10,3,7,,FR
+SRV-00712,Chili,Santiago,HR,G7,7,6,9,10,,DE
+SRV-00713,France,Paris,Supply Chain,G10,7,6,3,0,Manque de mobilité,DE
+SRV-00714,Pologne,Wroclaw,Production,G6,3,9,10,7,Outils lents,EN
+SRV-00715,Chili,Santiago,Sales,G9,6,4,6,6,Manque de mobilité,ZH
+SRV-00716,Allemagne,Dortmund,Marketing,G10,2,7,5,9,Très satisfait,FR
+SRV-00717,Chine,Shanghai,Quality,G10,7,3,10,7,,ES
+SRV-00718,France,Paris,Finance,G5,5,1,10,7,Manque de mobilité,ZH
+SRV-00719,Chili,Santiago,IT,G10,5,2,6,0,,FR
+SRV-00720,Pologne,Wroclaw,Supply Chain,G7,6,1,9,1,Très satisfait,FR
+SRV-00721,Espagne,Madrid,Quality,G6,3,8,6,8,,ES
+SRV-00722,Chili,Santiago,Sales,G6,4,1,10,0,Bon manager,ZH
+SRV-00723,Chine,Shanghai,Quality,G9,2,8,10,7,Outils lents,FR
+SRV-00724,Espagne,Madrid,Marketing,G7,6,1,8,0,Bon manager,EN
+SRV-00725,Allemagne,Dortmund,Sales,G8,5,7,7,1,Outils lents,EN
+SRV-00726,Allemagne,Dortmund,Quality,G5,9,4,4,9,Bon manager,ZH
+SRV-00727,Chine,Shanghai,IT,G10,4,3,9,2,Manque de mobilité,ES
+SRV-00728,Espagne,Madrid,Finance,G10,4,9,9,8,,DE
+SRV-00729,France,Limoges,HR,G9,5,7,3,1,,EN
+SRV-00730,Pologne,Wroclaw,Quality,G10,5,6,6,8,Manque de mobilité,ES
+SRV-00731,Chili,Santiago,Sales,G9,7,6,8,2,Manque de mobilité,EN
+SRV-00732,Chili,Santiago,Quality,G5,5,4,9,7,Très satisfait,ZH
+SRV-00733,France,Paris,Production,G9,8,1,8,2,Très satisfait,EN
+SRV-00734,Pologne,Wroclaw,Marketing,G8,1,2,10,0,,ZH
+SRV-00735,Pologne,Wroclaw,Production,G6,2,2,10,5,Charge élevée,ZH
+SRV-00736,Pologne,Wroclaw,Supply Chain,G5,1,9,3,6,,EN
+SRV-00737,Pologne,Wroclaw,IT,G5,5,2,8,3,,FR
+SRV-00738,Pologne,Wroclaw,Marketing,G10,5,5,6,3,,ZH
+SRV-00739,France,Paris,Production,G8,9,6,2,5,Très satisfait,EN
+SRV-00740,Espagne,Madrid,Production,G8,9,1,7,2,Outils lents,ES
+SRV-00741,Chine,Shanghai,Production,G6,3,3,4,0,Très satisfait,EN
+SRV-00742,Chili,Santiago,Production,G6,4,7,5,6,Bon manager,ZH
+SRV-00743,Allemagne,Dortmund,Sales,G9,5,4,10,4,Outils lents,DE
+SRV-00744,Chine,Shanghai,Quality,G6,3,2,5,4,,EN
+SRV-00745,Chine,Shanghai,Finance,G7,8,4,5,10,Manque de mobilité,DE
+SRV-00746,Allemagne,Dortmund,Sales,G9,9,2,1,1,,EN
+SRV-00747,Chili,Santiago,Quality,G7,4,6,1,0,Outils lents,DE
+SRV-00748,Chine,Shanghai,Marketing,G9,8,8,10,8,Charge élevée,DE
+SRV-00749,Allemagne,Dortmund,IT,G8,9,8,3,6,Bon manager,ZH
+SRV-00750,Chili,Santiago,Production,G8,9,10,4,10,Manque de mobilité,ZH
+SRV-00751,Pologne,Wroclaw,Production,G10,7,9,5,0,,ES
+SRV-00752,Allemagne,Dortmund,Supply Chain,G6,9,2,6,5,Charge élevée,DE
+SRV-00753,France,Limoges,IT,G10,8,9,2,2,Outils lents,DE
+SRV-00754,Chili,Santiago,HR,G9,4,1,1,5,Outils lents,FR
+SRV-00755,France,Paris,Marketing,G6,10,2,7,9,Outils lents,DE
+SRV-00756,France,Paris,Finance,G5,9,9,3,2,Bon manager,ES
+SRV-00757,Pologne,Wroclaw,Finance,G6,10,1,7,5,Outils lents,ZH
+SRV-00758,Chili,Santiago,Finance,G5,10,9,4,1,Très satisfait,DE
+SRV-00759,Chili,Santiago,Sales,G8,6,3,5,3,,EN
+SRV-00760,Chili,Santiago,Finance,G9,4,4,8,1,Très satisfait,FR
+SRV-00761,Chine,Shanghai,Supply Chain,G8,6,7,7,6,,DE
+SRV-00762,Chili,Santiago,Quality,G6,9,6,1,5,Très satisfait,FR
+SRV-00763,Allemagne,Dortmund,Marketing,G8,9,3,8,2,Bon manager,DE
+SRV-00764,France,Limoges,Sales,G8,1,5,5,5,Bon manager,DE
+SRV-00765,Chili,Santiago,Supply Chain,G9,3,7,5,7,,EN
+SRV-00766,Pologne,Wroclaw,Production,G9,10,6,8,10,Outils lents,ES
+SRV-00767,Espagne,Madrid,Supply Chain,G10,9,9,2,10,Outils lents,FR
+SRV-00768,Allemagne,Dortmund,Production,G7,4,6,10,4,Outils lents,ZH
+SRV-00769,Chine,Shanghai,Quality,G6,7,4,1,10,Très satisfait,DE
+SRV-00770,Allemagne,Dortmund,Marketing,G8,6,7,10,10,Très satisfait,ES
+SRV-00771,Pologne,Wroclaw,IT,G8,9,2,10,5,Bon manager,ZH
+SRV-00772,Espagne,Madrid,IT,G7,6,4,5,8,Charge élevée,DE
+SRV-00773,Espagne,Madrid,Finance,G8,2,3,5,0,,EN
+SRV-00774,Chine,Shanghai,HR,G8,4,7,5,4,,ES
+SRV-00775,Pologne,Wroclaw,Sales,G6,9,4,8,5,Outils lents,DE
+SRV-00776,Chili,Santiago,Finance,G6,3,9,7,2,Manque de mobilité,DE
+SRV-00777,Espagne,Madrid,Marketing,G6,1,9,1,5,Manque de mobilité,DE
+SRV-00778,Pologne,Wroclaw,HR,G5,9,5,7,0,,ES
+SRV-00779,Chili,Santiago,HR,G7,5,5,6,2,Outils lents,ZH
+SRV-00780,Chili,Santiago,Finance,G8,5,4,5,4,Outils lents,DE
+SRV-00781,Chine,Shanghai,Marketing,G6,8,9,1,2,,ZH
+SRV-00782,Espagne,Madrid,IT,G8,6,2,10,9,Charge élevée,ZH
+SRV-00783,Allemagne,Dortmund,Quality,G9,5,3,4,2,,ZH
+SRV-00784,Allemagne,Dortmund,Quality,G8,10,10,8,9,,ES
+SRV-00785,Allemagne,Dortmund,Sales,G6,9,2,8,7,,ZH
+SRV-00786,Pologne,Wroclaw,IT,G6,8,2,7,0,Outils lents,ES
+SRV-00787,Allemagne,Dortmund,Sales,G5,2,2,9,8,Charge élevée,DE
+SRV-00788,Chine,Shanghai,Marketing,G8,1,5,4,3,Charge élevée,EN
+SRV-00789,Chine,Shanghai,Marketing,G8,1,9,3,8,Très satisfait,ZH
+SRV-00790,Chili,Santiago,Production,G7,3,10,1,9,Très satisfait,EN
+SRV-00791,Chili,Santiago,HR,G9,3,4,6,2,Outils lents,DE
+SRV-00792,Chili,Santiago,Marketing,G10,5,4,5,3,,FR
+SRV-00793,Espagne,Madrid,Marketing,G9,7,2,2,8,Outils lents,DE
+SRV-00794,Espagne,Madrid,Production,G6,6,1,7,4,Très satisfait,FR
+SRV-00795,Espagne,Madrid,HR,G8,4,3,1,10,,ZH
+SRV-00796,Chili,Santiago,IT,G8,6,10,2,5,,EN
+SRV-00797,Espagne,Madrid,Sales,G6,1,3,1,8,Bon manager,ES
+SRV-00798,Pologne,Wroclaw,HR,G8,3,10,5,4,,FR
+SRV-00799,Chine,Shanghai,HR,G8,3,3,10,7,Très satisfait,ES
+SRV-00800,Pologne,Wroclaw,Finance,G9,7,10,8,4,Outils lents,DE
